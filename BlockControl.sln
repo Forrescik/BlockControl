@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockControl", "BlockControl\BlockControl.csproj", "{F13E7D9B-4B32-439E-A9BF-C3F3AE673149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockControl.Tests", "BlockControl.Tests\BlockControl.Tests.csproj", "{F432C08C-EC2A-49DE-A655-938B7127D08B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockControl.Test", "BlockControl.Test\BlockControl.Test.csproj", "{C858FBCF-52CA-479B-AEF7-7E06EF6B35B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F13E7D9B-4B32-439E-A9BF-C3F3AE673149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13E7D9B-4B32-439E-A9BF-C3F3AE673149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13E7D9B-4B32-439E-A9BF-C3F3AE673149}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F432C08C-EC2A-49DE-A655-938B7127D08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F432C08C-EC2A-49DE-A655-938B7127D08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F432C08C-EC2A-49DE-A655-938B7127D08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F432C08C-EC2A-49DE-A655-938B7127D08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C858FBCF-52CA-479B-AEF7-7E06EF6B35B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C858FBCF-52CA-479B-AEF7-7E06EF6B35B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C858FBCF-52CA-479B-AEF7-7E06EF6B35B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C858FBCF-52CA-479B-AEF7-7E06EF6B35B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
