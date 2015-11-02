@@ -7,6 +7,5 @@ namespace BlockControl
     public interface IMyControls
     {
         event RoutedEventHandler ValueChanged;
-        ss
     }
 }
